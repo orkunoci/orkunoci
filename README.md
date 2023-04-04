@@ -29,4 +29,4 @@ const orkun = {
 - 👋 Hi, I’m @orkunoci
 - 👀 I’m interested in learn development.
 - 🌱 I’m currently learning Flutter and JavaScript
-- 📫 How to reach me, devorkunoci@gmail.com | orkunoci.tech.
+- 📫 How to reach me, devorkunoci@gmail.com | [orkunoci.tech](https://orkunoci.tech/)
